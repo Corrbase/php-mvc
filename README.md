@@ -8,7 +8,7 @@
 
 [create a next](#create-new-page)
 
-[create a function](#create-a-function-and-call) `#1589F0`
+[create a function](#create-a-function-and-call)
 
 
 
