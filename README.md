@@ -18,7 +18,7 @@
 >to connect to the base you need to go to <font color="green"> core/model.php </font>
 >![img.png](readme/img.png)
 
-###Create new page
+### Create new page
 
 >to create a new page you have to create a new php </font> folder css file <font color="gree"> *Where should only be a content* </font> file in the 'view' folder 
 
