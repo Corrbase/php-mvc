@@ -16,13 +16,13 @@
 ### Connect to SQL database
 
 >to connect to the base you need to go to <font color="green"> core/model.php </font>
->![img.png](images/img.png)
+>![img.png](readme/img.png)
 
 ###Create new page
 
 >to create a new page you have to create a new php </font> folder css file <font color="gree"> *Where should only be a content* </font> file in the 'view' folder 
 
-![images/img_1.png](images/img_1.png)
+![images/img_1.png](readme/img_1.png)
 - in file <font color="green"> controller/customer </font> create a new function and function name this will be the page url name and in function type this code
 ```    
 public function functionName()
@@ -31,7 +31,7 @@ public function functionName()
 }
 ```
 
-![img_6.png](images/img_6.png)
+![img_6.png](readme/img_6.png)
 - to create a css file you need to create file in <font color="green"> css </font> folder css file <font color="red"> *content file name and css file name must match* </font>
 
 
@@ -43,7 +43,7 @@ public function functionName()
 
 > for function call go to <font color="green"> controller/customer </font> file and in created function call this function
 >> to connect the model class to customer create a public variable and  create a new object
-![img_2.png](images/img_2.png)
+![img_2.png](readme/img_2.png)
 > in name set sql table name
 
 >to call function write
