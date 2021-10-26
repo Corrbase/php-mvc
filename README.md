@@ -4,7 +4,7 @@
 
 ### <font color="gree">MENU</font>
 
-[create main page](#main-page)
+[create main page](#create-main-page)
 
 [connect to sql database](#connect-to-sql-database)
 
