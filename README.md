@@ -56,8 +56,8 @@ public function functionName()
 
 > for function call go to <font color="green"> controller/customer </font> file and in created function call this function
 >> to connect the model class to customer create a public variable and  create a new object
-![img_2.png](readme/img_2.png)
 > in name set sql table name
+![img_2.png](readme/img_2.png)
 
 >to call function write
 ```php 
@@ -68,9 +68,10 @@ $this->$modelName->functionName();
 ### Create main page
 
 >to create main page go to main <font color="green"> index.php </font> file and in variable **$main_page** set a main page URL
-![image](https://user-images.githubusercontent.com/89274824/138837118-8539685d-dd0d-4156-be86-39a22522eac1.png)
+> 
+>![image](https://user-images.githubusercontent.com/89274824/138837118-8539685d-dd0d-4156-be86-39a22522eac1.png)
 
 
-
+###
 ###### Author - Mher Barseghyan
 
