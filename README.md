@@ -4,6 +4,8 @@
 
 ### <font color="gree">MENU</font>
 
+[create main page](#main-page)
+
 [connect to sql database](#connect-to-sql-database)
 
 [create a next](#create-new-page)
@@ -48,3 +50,6 @@ public function functionName()
 
 >to call function write
 >> ```$this->$modelName->functionName()```
+
+
+### Create main page
