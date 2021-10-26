@@ -18,7 +18,18 @@
 ### Connect to SQL database
 
 >to connect to the base you need to go to <font color="green"> core/model.php </font>
->![img.png](readme/img.png)
+```php
+public function __construct()
+{
+    $this->conn = new mysqli('', '', '', '');
+    $this->query = [
+        'limit' => '',
+        'where' => '',
+        'order' => '',
+        'select' => '',
+    ];
+}
+```
 
 ### Create new page
 
