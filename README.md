@@ -26,7 +26,7 @@
 
 ![images/img_1.png](readme/img_1.png)
 - in file <font color="green"> controller/customer </font> create a new function and function name this will be the page url name and in function type this code
-```    
+```php
 public function functionName()
 {
     view('php content file name', []);
@@ -49,7 +49,9 @@ public function functionName()
 > in name set sql table name
 
 >to call function write
->> ```$this->$modelName->functionName()```
+```php 
+$this->$modelName->functionName();
+```
 
 
 ### Create main page
