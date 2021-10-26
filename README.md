@@ -21,7 +21,7 @@
 ```php
 public function __construct()
 {
-    $this->conn = new mysqli('', '', '', '');
+    $this->conn = new mysqli(/*hostname*/'',/*name*/'',/*pass*/'',/*database*/'');
     $this->query = [
         'limit' => '',
         'where' => '',
