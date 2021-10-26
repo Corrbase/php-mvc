@@ -53,3 +53,5 @@ public function functionName()
 
 
 ### Create main page
+
+>to create main page go to main <font color="green"> index.php </font> file and in variable ** $main_page ** set a main page URL
