@@ -56,3 +56,9 @@ public function functionName()
 
 >to create main page go to main <font color="green"> index.php </font> file and in variable **$main_page** set a main page URL
 ![image](https://user-images.githubusercontent.com/89274824/138837118-8539685d-dd0d-4156-be86-39a22522eac1.png)
+
+
+
+
+###### Author - Mher Barseghyan
+
