@@ -33,7 +33,7 @@ public function __construct()
 
 
 
-###  Create new page
+### Create new page
 
 >to create a new page you have to create a new php </font> folder css file <font color="gree"> *Where should only be a content* </font> file in the 'view' folder 
 
