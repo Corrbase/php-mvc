@@ -46,7 +46,5 @@ if (isset($get[0]))
     }
 }else{
 
-
-
 }
 
