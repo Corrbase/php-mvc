@@ -15,7 +15,6 @@ class customer{
 
     public function index(){
         view('index', []);
-
     }
 
 }
